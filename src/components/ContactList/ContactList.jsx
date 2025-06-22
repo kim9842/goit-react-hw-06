@@ -1,4 +1,4 @@
-import Contact from "../Contact/Contact";
+import Contact from "../Contact1/1Contact";
 import style from "./ContactList.module.css";
 import { useSelector } from "react-redux";
 
