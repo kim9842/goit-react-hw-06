@@ -1,6 +1,6 @@
-import ContactForm from "./components/contactForm/contactForm";
-import SearchBox from "./components/SearchBox/searchBox";
-import ContactList from "./components/ContactList/contactList";
+import ContactForm from "./components/contactForm/ContactForm";
+import SearchBox from "./components/searchBox/SearchBox";
+import ContactList from "./components/contactList/ContactList";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 

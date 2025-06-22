@@ -4,7 +4,7 @@ import { FaPhoneAlt } from "react-icons/fa";
 import { useDispatch } from "react-redux";
 import { deleteContact } from "../../redux/contactSlice";
 import { toast, Slide } from "react-toastify";
-import style from "./contact.module.css";
+import style from "./Contact.module.css";
 
 const Contact = ({ id, name, number }) => {
   const dispatch = useDispatch();

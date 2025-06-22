@@ -1,7 +1,7 @@
 import { nanoid } from "nanoid";
 import { ErrorMessage, Field, Form, Formik } from "formik";
 import * as Yup from "yup";
-import style from "./contactForm.module.css";
+import style from "./ContactForm.module.css";
 import { useDispatch, useSelector } from "react-redux";
 import { addContact } from "../../redux/contactSlice";
 import { toast, Slide } from "react-toastify";
